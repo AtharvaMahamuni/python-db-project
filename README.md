@@ -1,2 +1,3 @@
 # python-db-project
-This is the reository where I made two projects for using sqlite with python
+
+This is the sample app to make use of SQLite database module in Python to build the basic application. This can be anything like a course management or library management application.
